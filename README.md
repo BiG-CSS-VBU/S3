@@ -16,7 +16,11 @@ and 4 GB RAM runing Ubuntu 16.2 using gcc compiler. The executable can run on Li
 -mnet at this moment.
 The syntex of running S3
 
-$./S3 seq.txt 
+$./S3 seq.txt > output.txt
+
+Here seq.txt is the input file that contains the DNA sequence from which we want to extract STRs 
+and the output.txt will contain the output of S3.
+
 
 Current implementation of the algorithm S3 supports the following options
 
