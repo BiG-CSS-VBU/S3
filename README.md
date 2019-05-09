@@ -27,18 +27,23 @@ and the output.txt will contain the output of S^3. Specifically, the start locat
 Current implementation of the algorithm S^3 supports the following options
 
 -l : it is used to input the cutoff value, that is the minimum length of STR
+
       (default value: 12)
 
 -n : it is used to input the minimum motif length
+
       (default value: 1)
 
 -m : it is used to input maximum motif length (current implemetation support maximum value of m =6)
+
       (default value: 6)
 
 -a : it use to specify whether atomic(1) or non-atomic(0) motifs are to be considered
+
       (default value: 1)
 
 -p : it is used to specify whether the results include the partial motif(value 1) or exclude partial motif(value 0)
+
       (default value: 0)
 
 
