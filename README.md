@@ -21,8 +21,13 @@ $./S3 seq.txt
 Current implementation of the algorithm S3 supports the following options
 
 -l : it is used to input the cutoff value, that is the minimum length of STR
+
 -n : it is used to input the minimum motif length (1)
+
 -m : it is used to input maximum motif length (current implemetation support maximum value of m =6)
+
 -a : it use to specify whether atomic(1) or non-atomic(0) motifs are to be considered
+
 -p : it is used to specify whether the result include the partial motif(1) or exclude(0)
+
 
