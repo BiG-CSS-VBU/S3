@@ -38,9 +38,6 @@ Current implementation of the algorithm S^3 supports the following options
 
       (default value: 6)
 
--a : it use to specify whether atomic(1) or non-atomic(0) motifs are to be considered
-
-      (default value: 1)
 
 -p : it is used to specify whether the results include the partial motif(value 1) or exclude partial motif(value 0)
 
